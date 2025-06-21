@@ -2,7 +2,8 @@ import numpy as np
 
 
 # sigmoid function
-# each neuron receives inputs, applies weights and bias,
+# each neuron receives inputs,
+# applies weights and bias,
 # and then passes the result through an activation function like sigmoid.
 # sigmoid func always outputs a value b/w 0 and 1.
 # o(z) = 1/(1 + e^-z)
